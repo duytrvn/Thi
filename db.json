@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "name": "Sản Phẩm new update",
+      "price": "333",
+      "description": "Mô tả sản phẩm new",
+      "id": 2
+    },
+    {
+      "name": "sản phẩm 2",
+      "price": "2222",
+      "description": "mô tả sản phẩm 2",
+      "id": 3
+    },
+    {
+      "name": "dấda",
+      "price": "23123",
+      "description": "312313",
+      "id": 4
+    },
+    {
+      "name": "đasad",
+      "price": "21231",
+      "description": "321321312",
+      "id": 5
+    },
+    {
+      "name": "sp1",
+      "price": "32123",
+      "description": "ưeqw",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$8P/Qy1SAIpunLAFyOaYZ5O3u8H.S09kbZBH30AhSczK1hYN4SH5ES",
+      "id": 1
+    }
+  ]
+}
